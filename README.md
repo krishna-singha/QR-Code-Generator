@@ -1,6 +1,6 @@
 # QR Code Generator
 
-- This project is a simple QR code generator implemented using HTML, CSS, and JavaScript. It allows users to generate QR codes for specified data.
+- This is a simple QR code generator web application that allows users to create QR codes for various types of data. The project is built using HTML for the structure, CSS for styling, and JavaScript for the QR code generation functionality.
 
 <br>
 
@@ -23,7 +23,10 @@ You can see a live demo of the QR code generator: [Live](https://krishna-singha.
 
 ## Features
 
-- Generate QR codes for specified data.
+- Input any type of data (text, URL, etc.) to generate QR codes.
+- Real-time preview of the generated QR code.
+- You can customize QR code size.
+- Download the generated QR code as an image.
 
 <br>
 
@@ -50,6 +53,7 @@ You can see a live demo of the QR code generator: [Live](https://krishna-singha.
 <br>
 
 ## License
+
    - This project is licensed under the `GNU General Public License v3.0` - see the [LICENSE.md](https://github.com/krishna-singha/QR-Code-Generator/blob/main/LICENSE) file for details.
 
 ---
