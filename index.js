@@ -63,21 +63,6 @@ const sizeFunc = () => {
             
             return URL6;
 
-        case "400":
-            const URL7 = qrBaseURL + "400x400&data=" + input.value;
-            
-            return URL7;
-
-        case "450":
-            const URL8 = qrBaseURL + "450x450&data=" + input.value;
-            
-            return URL8;
-
-        case "500":
-            const URL9 = qrBaseURL + "500x500&data=" + input.value;
-            
-            return URL9;
-    
         default:
             break;
     }
