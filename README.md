@@ -54,7 +54,7 @@ You can see a live demo of the QR code generator: [Live](https://krishna-singha.
 
 ## License
 
-   - This project is licensed under the `GNU General Public License v3.0` - see the [LICENSE.md](https://github.com/krishna-singha/QR-Code-Generator/blob/main/LICENSE) file for details.
+   - This project is licensed under the `GNU General Public License v3.0` - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 
